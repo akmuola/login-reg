@@ -1,0 +1,50 @@
+body{
+  background: aqua;
+}
+form{
+  width: 200px;
+  height:230px;
+  background: white;
+  margin-left: 620px;
+  padding:40px;
+  box-shadow: 2px 3px 5px black;
+  border-radius: 12px;
+}
+input[type=email],input[type=password],select,input[type=date]{
+padding: 8px;
+width:100%;
+background: cadetblue;
+border-radius: 6px;
+border:none;
+}
+button{
+  padding:8px;
+  margin-top:12px;
+  width:203px;
+  border:none;
+  cursor: pointer;
+  background: crimson;
+  color:white;
+  font-weight: 900;
+  border-radius: 24px;
+}
+button:hover{
+  background: blue;
+  color:white;
+}
+h1{
+  text-align: center;
+  color:white;
+  font-family: andalus;
+  font-weight:700;
+  text-shadow: 2px 3px 3px black;
+}
+small{
+  margin-left: 15px;
+}
+.adeola{
+  height:400px;
+}
+select{
+  width:215px;
+}
